@@ -1,16 +1,16 @@
-# trabalho_final
+# Trabalho desenvolvido para a disciplina de Laboratório de Programação Mobile - UFF
 
-A new Flutter project.
+# App de Cardápio.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Sobre as dificuldades.
+ - Aprendizado de nova linguagem (Flutter)
+ - Dificuldade lidando com o novo modelo de banco de dados.
+ - Dificuldade em lidar com as funções assíncronas.
+ - Dificuldade de tempo para concluir o projeto
+ 
+# Problemas presentes no código 04/12/2020
+ - Falta informação na tela de cardápio (Intitulada por enquanto como GridView)
+ - Possibilidade de fazer o pedido na tela de cardápio.
+ - Bug na tela de exibir conta. (Funciona em modo debug, fora desse modo funciona quando quer)
+ - Possibilidade de gerar o QR-Code por parte do restaurante.
+ - Melhorar a interface geral.
